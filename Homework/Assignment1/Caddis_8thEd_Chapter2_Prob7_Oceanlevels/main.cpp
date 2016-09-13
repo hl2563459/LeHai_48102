@@ -11,7 +11,7 @@ using namespace std;
 const float CNVMMFT=304.8; //Conversion milimeters to feet from Google
 const float CNVMMM=1000; //COnversion milimeters to meters
 int main(int argc, char** argv) {
-    float rate=1.5; //Sea level rise rate in mm/year
+    float rate=1.5f; //Sea level rise rate in mm/year
     int nYear1=5, nYear2=7, nYear3=10; //Years to calculate rise
     float rise1, rise2, rise3; //Solution for the 3 years from above
     int nYrBch; //Number of years before your home is beach front property
