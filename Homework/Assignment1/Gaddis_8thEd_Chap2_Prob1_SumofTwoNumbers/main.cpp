@@ -11,7 +11,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
     //Declare variables
-    short numb1, numb2, total;
+    unsigned short numb1, numb2, total;
     
     //Input
     cout<<"The first number =  ";

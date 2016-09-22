@@ -6,6 +6,7 @@
  */
 
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -25,12 +26,14 @@ int main(int argc, char** argv) {
     total=meal+Ctax+Ctip;
     
     //Display the bill
+    
+    cout<<fixed<<showpoint<<setprecision(2);
     cout<<"Cost of the meal = $"<<meal<<endl;
     cout<<"Charge for tax = $"<<Ctax<<endl;
     cout<<"Total charge without tip = $"<<charge<<endl;
     cout<<"Charge for tip = $"<<Ctip<<endl;
     cout<<"Total amount = $"<<total<<endl;
-   
+    
     return 0;
 }
 

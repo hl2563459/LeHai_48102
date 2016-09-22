@@ -6,6 +6,7 @@
  */
 
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -28,6 +29,7 @@ int main(int argc, char** argv) {
     total=totalS+sTax;
     
     //Display Output
+    cout<<fixed<<showpoint<<setprecision(2);
     cout<<"Price of item 1 = $"<<item1<<endl;
     cout<<"Price of item 2 = $"<<item2<<endl;
     cout<<"Price of item 3 = $"<<item3<<endl;

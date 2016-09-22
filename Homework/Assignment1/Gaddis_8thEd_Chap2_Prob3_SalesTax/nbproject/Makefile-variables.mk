@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=gaddis_8thed_chap2_pron3_salestax
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/gaddis_8thed_chap2_pron3_salestax
+CND_ARTIFACT_NAME_Debug=cppapplication_2
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/cppapplication_2
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=gaddis8thedchap2pron3salestax.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/gaddis8thedchap2pron3salestax.tar
+CND_PACKAGE_NAME_Debug=cppapplication2.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/cppapplication2.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=gaddis_8thed_chap2_pron3_salestax
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/gaddis_8thed_chap2_pron3_salestax
+CND_ARTIFACT_NAME_Release=cppapplication_2
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/cppapplication_2
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=gaddis8thedchap2pron3salestax.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/gaddis8thedchap2pron3salestax.tar
+CND_PACKAGE_NAME_Release=cppapplication2.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/cppapplication2.tar
 #
 # include compiler specific variables
 #

@@ -6,6 +6,7 @@
  */
 
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
@@ -23,6 +24,7 @@ int main(int argc, char** argv) {
     st=sst+cst;
     tt=pur+st;
     //Display the sales tax
+    cout<<fixed<<showpoint<<setprecision(2);
     cout<<"The cost of the purchase = $"<<pur<<endl;
     cout<<"State sales tax rate = "<<sTax<<"%"<<endl;
     cout<<"State sales tax = $"<<sst<<endl;
@@ -32,4 +34,3 @@ int main(int argc, char** argv) {
     cout<<"The total = $"<<tt<<endl;
     return 0;
 }
-
