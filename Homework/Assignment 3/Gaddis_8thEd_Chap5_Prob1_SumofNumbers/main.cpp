@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
         cin>>num;
     }
     
-    for (int counter=1; num>=counter; counter++)
+    for (int counter=1; counter<=num; counter++)
     {
            sum =sum+counter;
     }

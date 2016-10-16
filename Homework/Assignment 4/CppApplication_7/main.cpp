@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     //Process 
     
     letter=0;
-    for (short a=0; a<=127; a++)
+    for (short counter=0; counter<=127; counter++)
     {
         cout<<letter<<endl;
         letter++;
